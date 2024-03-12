@@ -85,7 +85,7 @@ public final class Microwave {
                                 System.out.print(" and " + secondSoup + "s's.");
                                 System.out.println();
                                 break;
-                            
+
                             // unused default case, not needed
                             default:
                                 break;
